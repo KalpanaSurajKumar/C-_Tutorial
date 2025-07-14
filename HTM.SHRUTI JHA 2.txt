@@ -1,0 +1,16 @@
+<HTML>
+<HEAD>
+<TITLE> ORDERED LIST </TITLE>
+</HEAD>
+<BODY>
+<H3> 
+<OL>
+<LI> MOUSE
+<LI> KEYBOARD
+<LI> SCANNER
+<LI>  MICR
+</LI>
+</H3>
+</OL>
+</BODY>
+</HTML>
